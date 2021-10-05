@@ -1,1 +1,3 @@
-# C28-classwork
+# PiratesInvasionStage-6
+
+adding sounds and score
